@@ -1,10 +1,4 @@
-# mutation-accumulation
-
-## Contents
-- [About](#about)
-- [Paleomix pipeline](#paleomix-pipeline)
-- [BPP](#bpp)
-- [Mutational load](#mutational-load)
+# mediterranean-monk-seal-genomics
 
 ## About
 
